@@ -52,6 +52,7 @@
      <Compile Include="Assets\Sprites\Mario\runner.cs" />
      <Compile Include="Assets\jump.cs" />
      <Compile Include="Assets\parallax.cs" />
+     <Compile Include="Assets\splashGUI.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
