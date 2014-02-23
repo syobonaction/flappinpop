@@ -17,5 +17,6 @@ public class Spikes : MonoBehaviour {
 
 	void OnCollisionEnter2D (Collision2D collision) {
 		Time.timeScale = 0;
+		//call a menu here
 	}
 }
